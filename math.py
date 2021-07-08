@@ -1,9 +1,11 @@
 #Add implementaton
 def add(x,y):
-pass
+return x+y
+
 #Subtract implementaton
 def subtract(x,y):
 pass
+
 #Multiply implementaton
 def multiply(x,y):
 pass
