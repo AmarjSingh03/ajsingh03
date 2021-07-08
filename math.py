@@ -1,19 +1,13 @@
 #Add implementaton
 def add(x,y):
-return x+y
-
+pass
 #Subtract implementaton
 def subtract(x,y):
-return x-y
-
+pass
 #Multiply implementaton
 def multiply(x,y):
-return x*y
+pass
 
 #Divide implementaton
 def divide(x,y):
-return x/
-
-#implementation
-def square(x)
 pass
