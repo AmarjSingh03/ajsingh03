@@ -8,7 +8,7 @@ pass
 
 #Multiply implementaton
 def multiply(x,y):
-pass
+return x*y
 
 #Divide implementaton
 def divide(x,y):
